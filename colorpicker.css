@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.but_ton1 {
+    background-color: #e0e0e0;
+}
+
+.but_ton2 {
+    background-color: #6fcf97;
+}
+
+.but_ton3 {
+    background-color: #56ccf2;
+}
+
+.but_ton4 {
+    background-color: #bb6bd9;
+}
+
+.p {
+    background-color: #222222;
+    color: white;
+    font-size: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.p1 {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Open Sans";
+}
+
+.caontrainer {
+    background-color: #ffffff;
+    height: 100vh;
+
+}
+
+.button {
+    font-family: "open Sans";
+    font-size: 14px;
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.selected-color-hex-code {
+    color: #49a6e9;
+}
